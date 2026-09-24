@@ -1,0 +1,13 @@
+{
+  "name": "agy-creative",
+  "version": "0.1.0",
+  "description": "Create images and translate any text into Emirati (UAE) dialect Arabic, powered by the Antigravity CLI (agy).",
+  "author": {
+    "name": "Sajeer Hamza",
+    "url": "https://github.com/ambalansajeer"
+  },
+  "homepage": "https://github.com/ambalansajeer/agy-creative",
+  "repository": "https://github.com/ambalansajeer/agy-creative",
+  "license": "MIT",
+  "keywords": ["mcp", "image-generation", "arabic", "emirati", "translation", "uae", "antigravity"]
+}

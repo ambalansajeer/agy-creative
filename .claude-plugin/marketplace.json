@@ -1,0 +1,19 @@
+{
+  "name": "agy-creative",
+  "owner": {
+    "name": "Sajeer Hamza",
+    "url": "https://github.com/ambalansajeer"
+  },
+  "metadata": {
+    "description": "Image generation and Emirati Arabic translation tools for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "agy-creative",
+      "source": "./",
+      "description": "Create images and translate any text into Emirati (UAE) dialect Arabic, powered by the Antigravity CLI (agy).",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ]
+}
